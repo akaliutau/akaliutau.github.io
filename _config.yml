@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Emergent Dynamics # blog_name will be displayed in your blog page
-blog_description: A blog with some personal views on AI, ML and everything around
+blog_description: A blog with some personal views on AI/ML, software engineering and everything around
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -125,10 +125,10 @@ disqus_shortname: akaliutau # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@aliaksei.kaliutau/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+#  - name: Google Blog
+#    posts:
+#      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
