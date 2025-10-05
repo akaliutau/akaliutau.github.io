@@ -1,7 +1,7 @@
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: akaliutau/situs-personalis:v0.1.0
+    image: akaliutau/advanced-jekyll:v0.1.0
     #build: .
     ports:
       - 8080:8080

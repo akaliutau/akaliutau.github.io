@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Aliaksei Kaliutau personal site # the website title (if blank, full name will be used instead)
+title: Aliaksei Kaliutau # the website title (if blank, full name will be used instead)
 first_name: Aliaksei
 middle_name: 
 last_name: Kaliutau
@@ -32,7 +32,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -174,12 +174,10 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
   - INSTALL.md
@@ -194,6 +192,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/repositories.md
   - _pages/teaching.md
+  - dev_notes.txt
 
 keep_files:
   - CNAME
