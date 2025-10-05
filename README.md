@@ -4,8 +4,11 @@ This repository contains the source code and assets for my personal website
 
 ## File structure
 
+TBA
+
 ## Deployment
 
+Commit to main branch triggers automatic re-build and deployment
 
 # License
 
