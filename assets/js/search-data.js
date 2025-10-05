@@ -112,8 +112,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-successfully-defended-my-msc-thesis-in-ai-and-materials-science-advised-by-dr-zhenzhu-li",
+          title: 'Successfully defended my MSc thesis in AI and Materials Science, advised by Dr....',
           description: "",
           section: "News",},{
         id: 'social-email',
