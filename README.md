@@ -1,6 +1,8 @@
 # Personal website
 
-This repository contains the source code and assets for my personal website
+This repository contains the source code and assets for my personal website.
+
+The site itself can be found here: [https://akaliutau.github.io/](https://akaliutau.github.io/)
 
 ## File structure
 
