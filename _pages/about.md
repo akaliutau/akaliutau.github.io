@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a software engineer with more than a decade of experience, expert knowledge of ML/AI (Deep Learning, LLM, GAN, RAG) and exceptional skills in building intelligent systems at scale. My work focuses on robotics, industrial ML and AI technologies, cloud technologies, intelligent automation, and AI research. I bridge research and engineering, hardening prototypes into secure, scalable, and production-ready systems. I received my Masters in Artificial Intelligence from Imperial College London in 2025.
+I'm an experienced researcher and software engineer with more than a decade of experience in R&D, expert knowledge of ML/AI (Deep Learning, LLM, GAN, RAG). My work focuses on robotics, industrial ML and AI, cloud technologies, intelligent automation, and AI research. I bridge research and engineering, hardening prototypes into secure, scalable, and production-ready systems.
+
+Research Interests: Reliable Machine Learning, Time-Series Analysis, Predictive Maintenance in Industrial Robotics, Causal Reasoning in LLMs, application of AI in various industries.
