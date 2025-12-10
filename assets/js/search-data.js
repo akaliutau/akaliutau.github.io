@@ -104,6 +104,9 @@ ninja.data = [{
             },},{id: "news-successfully-defended-my-msc-thesis-in-ai-and-materials-science-advised-by-dr-zhenzhu-li",
           title: 'Successfully defended my MSc thesis in AI and Materials Science, advised by Dr....',
           description: "",
+          section: "News",},{id: "news-thrilled-to-be-a-finalist-at-the-bradford-quantum-hackathon-2025-https-www-bradford-ac-uk-news-archive-2025-25000-prize-fund-for-bradford-quantum-hackathon-winners-php",
+          title: 'Thrilled to be a Finalist at the Bradford Quantum Hackathon 2025! https://www.bradford.ac.uk/news/archive/2025/25000-prize-fund-for-bradford-quantum-hackathon-winners.php',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
