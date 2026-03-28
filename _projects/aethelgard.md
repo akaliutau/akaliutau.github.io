@@ -4,7 +4,7 @@ title: Aethelgard: Decentralized Clinical Intelligence via Federated RAG
 description: Secure FedRAG framework for distributed health data search and knowledge exchange.
 img: assets/img/logo_aethelgard.jpg
 importance: 2
-category: research
+category: fun
 ---
 
 
