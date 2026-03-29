@@ -107,9 +107,9 @@ ninja.data = [{
           section: "News",},{id: "news-thrilled-to-be-a-finalist-at-the-bradford-quantum-hackathon-2025",
           title: 'Thrilled to be a finalist at the Bradford Quantum Hackathon 2025!',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-aethelgard-decentralized-clinical-intelligence-via-federated-rag",
+          title: 'Aethelgard: Decentralized Clinical Intelligence via Federated RAG',
+          description: "Secure FedRAG framework for distributed health data search and knowledge exchange.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aethelgard/";
             },},{
