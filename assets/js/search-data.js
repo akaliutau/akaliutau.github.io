@@ -111,7 +111,7 @@ ninja.data = [{
           title: '',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/fun/aethelgard/";
+              window.location.href = "/projects/aethelgard/";
             },},{
         id: 'social-email',
         title: 'email',
