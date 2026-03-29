@@ -112,6 +112,11 @@ ninja.data = [{
           description: "Secure FedRAG framework for distributed health data search and knowledge exchange.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aethelgard/";
+            },},{id: "projects-improving-llm-reasoning-in-materials-science",
+          title: 'Improving LLM Reasoning in Materials Science',
+          description: "A modular, DAG‑based framework for experimenting with pipelines that test and improve the reasoning capabilities of LLMs.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai4materials/";
             },},{id: "projects-linger-give-things-a-second-life",
           title: 'Linger — Give Things a Second Life',
           description: "Visual thinking in action. AI as a creative director.",
