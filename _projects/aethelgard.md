@@ -17,4 +17,4 @@ category: fun
 
 Aethelgard is a lightweight, pure-pull Federated Retrieval-Augmented Generation (FedRAG) framework. It allows you to query highly sensitive, distributed vector databases (like clinical patient data) without ever moving raw data or opening inbound corporate firewalls. Unlike traditional federated learning frameworks that focus on training models across silos, Aethelgard focuses strictly on inference and routing. If deployed, Aethelgard could eliminate millions of years of diagnostic waiting time without requiring a single Data Use Agreement (DUA), creating a scalable infrastructure for global clinical consensus.
 
-
+Read the whole story [here](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/project-aethelgard-decentralized-clinical-intelli)
