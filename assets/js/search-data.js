@@ -117,6 +117,11 @@ ninja.data = [{
           description: "Visual thinking in action. AI as a creative director.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/linger/";
+            },},{id: "projects-square-tree-or-how-to-pack-200-x-mas-trees",
+          title: 'Square Tree, or How To Pack 200 X-mas Trees',
+          description: "Distributed Geometric Packing via Crystallographic Lattices.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xtrees/";
             },},{
         id: 'social-email',
         title: 'email',
