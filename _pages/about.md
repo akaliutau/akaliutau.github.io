@@ -31,4 +31,4 @@ I'm an experienced researcher and software engineer with more than a decade of e
 
 Research Interests: Reliable Machine Learning, Time-Series Analysis, Predictive Maintenance in Industrial Robotics, Causal Reasoning in LLMs, application of AI in various industries.
 
-Currently with <a href="https://monodromylabs.org">Monodromy Labs</a>
+Currently leading the <a href="https://monodromylabs.org">Monodromy Labs</a>
