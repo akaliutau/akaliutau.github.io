@@ -30,3 +30,5 @@ latest_posts:
 I'm an experienced researcher and software engineer with more than a decade of experience in R&D, expert knowledge of ML/AI (Deep Learning, LLM, GAN, RAG). My work focuses on robotics, industrial ML and AI, cloud technologies, intelligent automation, and AI research. I bridge research and engineering, hardening prototypes into secure, scalable, and production-ready systems.
 
 Research Interests: Reliable Machine Learning, Time-Series Analysis, Predictive Maintenance in Industrial Robotics, Causal Reasoning in LLMs, application of AI in various industries.
+
+Currently with <a href="https://monodromylabs.org">Monodromy Labs</a>
