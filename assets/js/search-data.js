@@ -120,6 +120,11 @@ ninja.data = [{
           description: "A modular, DAG‑based framework for experimenting with pipelines that test and improve the reasoning capabilities of LLMs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai4materials/";
+            },},{id: "projects-ahydrae-a-hybrid-vision-language-model-approach-to-algorithmic-trading",
+          title: 'AHydrae: A Hybrid Vision-Language Model Approach to Algorithmic Trading',
+          description: "Using VLM and market sensing to build a fluent AI trader",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/alphard/";
             },},{id: "projects-dynavisr-benchmark-for-visual-reasoning-in-dynamic-environments",
           title: 'DynaVisR: Benchmark for Visual Reasoning in Dynamic Environments',
           description: "A benchmark to reduce shortcutting by requiring models to solve a coupled reasoning problem in complex dynamic environment.",
