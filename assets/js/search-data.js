@@ -117,6 +117,11 @@ ninja.data = [{
           description: "A modular, DAG‑based framework for experimenting with pipelines that test and improve the reasoning capabilities of LLMs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai4materials/";
+            },},{id: "projects-dynavisr-benchmark-for-visual-reasoning-in-dynamic-environments",
+          title: 'DynaVisR: Benchmark for Visual Reasoning in Dynamic Environments',
+          description: "A benchmark to reduce shortcutting by requiring models to solve a coupled reasoning problem in complex dynamic environment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dinavisr/";
             },},{id: "projects-linger-give-things-a-second-life",
           title: 'Linger — Give Things a Second Life',
           description: "Visual thinking in action. AI as a creative director.",
