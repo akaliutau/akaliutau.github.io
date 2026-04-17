@@ -121,7 +121,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai4materials/";
             },},{id: "projects-ahydrae-a-hybrid-vision-language-model-approach-to-algorithmic-trading",
-          title: 'AHydrae: A Hybrid Vision-Language Model Approach to Algorithmic Trading',
+          title: 'aHydrae: A Hybrid Vision-Language Model Approach to Algorithmic Trading',
           description: "Using VLM and market sensing to build a fluent AI trader",
           section: "Projects",handler: () => {
               window.location.href = "/projects/alphard/";
