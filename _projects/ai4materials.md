@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-[GitHub repository](https://github.com/stable-reasoning/ai4materials)
+[GitHub repository](https://github.com/akaliutau/ai4materials)
 
 This project reimagines how LLMs can reason about science. It transforms raw materials-science papers into structured causal contracts, then uses them to generate and evaluate reasoning tasks in a fully reproducible pipeline. The result is a novel research framework that makes scientific AI more transparent, testable, and ultimately more useful for discovery.
 
