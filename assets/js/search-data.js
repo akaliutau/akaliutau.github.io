@@ -130,6 +130,11 @@ ninja.data = [{
           description: "A benchmark to reduce shortcutting by requiring models to solve a coupled reasoning problem in complex dynamic environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dinavisr/";
+            },},{id: "projects-evolyth-the-engine-of-discovery",
+          title: 'EVOLYTH: the Engine of Discovery',
+          description: "Autonomous AI research system for evolving machine-learning model architectures",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/evolyth/";
             },},{id: "projects-linger-give-things-a-second-life",
           title: 'Linger — Give Things a Second Life',
           description: "Visual thinking in action. AI as a creative director.",
