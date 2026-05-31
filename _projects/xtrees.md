@@ -3,7 +3,7 @@ layout: page
 title: "Square Tree, or How To Pack 200 X-mas Trees"
 description: "Distributed Geometric Packing via Crystallographic Lattices."
 img: /assets/img/logo_trees.jpg
-importance: 2
+importance: 4
 category: work
 ---
 
