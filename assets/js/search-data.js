@@ -133,6 +133,11 @@ ninja.data = [{
           description: "A benchmark to reduce shortcutting by requiring models to solve a coupled reasoning problem in complex dynamic environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dinavisr/";
+            },},{id: "projects-eps-qrc-exceptional-point-susceptibility-quantum-reservoir-computing",
+          title: 'EPS-QRC: Exceptional-Point Susceptibility Quantum Reservoir Computing',
+          description: "Global Industry Challenge 2026 | Ongoing Project | Status: Phase 2",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eps-qrc/";
             },},{id: "projects-evolyth-the-engine-of-discovery",
           title: 'EVOLYTH: the Engine of Discovery',
           description: "Autonomous AI research system for evolving machine-learning model architectures",
