@@ -15,7 +15,7 @@ category: fun
 
 [GitHub repository](https://github.com/akaliutau/indexframe)
 
-For YouTube creators, the cover image is often the whole pitch. If it does not stop the scroll, the video never gets a chance. Current workflow to solve this problem feels like guessing: scrub through the video, take screenshots, try a few layouts, hope one works. **IndexFrame** solves this problem via intelligent and calculated AI image generation on the basis of carifully collected and analyzed context.
+For YouTube creators, the cover image is often the whole pitch. If it does not stop the scroll, the video never gets a chance. Current workflow to solve this problem feels like guessing: scrub through the video, take screenshots, try a few layouts, hope one works. **IndexFrame** solves this problem via intelligent and calculated AI image generation on the basis of carefully collected and analyzed context.
 
 📹 See the demo [here](https://www.youtube.com/watch?v=B0aBR1U_G1Q)
 
