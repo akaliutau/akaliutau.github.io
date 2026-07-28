@@ -133,9 +133,9 @@ ninja.data = [{
           description: "A benchmark to reduce shortcutting by requiring models to solve a coupled reasoning problem in complex dynamic environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dinavisr/";
-            },},{id: "projects-eps-qrc-exceptional-point-susceptibility-quantum-reservoir-computing",
-          title: 'EPS-QRC: Exceptional-Point Susceptibility Quantum Reservoir Computing',
-          description: "Global Industry Challenge 2026 | Ongoing Project | Status: Phase 2",
+            },},{id: "projects-susceptible-reservoir-architectures-for-regime-conditional-volatility-forecasting",
+          title: 'Susceptible Reservoir Architectures for Regime-Conditional Volatility Forecasting',
+          description: "Global Industry Challenge 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eps-qrc/";
             },},{id: "projects-evolyth-the-engine-of-discovery",
