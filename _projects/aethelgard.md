@@ -3,8 +3,8 @@ layout: page
 title: "Aethelgard: Decentralized Clinical Intelligence via Federated RAG"
 description: "Secure FedRAG framework for distributed health data search and knowledge exchange."
 img: /assets/img/logo_aethelgard.jpg
-importance: 2
-category: fun
+importance: 5
+category: work
 ---
 
 <div class="row">
@@ -14,6 +14,8 @@ category: fun
 </div>
 
 [GitHub repository](https://github.com/akaliutau/aethelgard)
+
+[GitHub repository](https://github.com/akaliutau/aethelgard2)
 
 Aethelgard is a lightweight, pure-pull Federated Retrieval-Augmented Generation (FedRAG) framework. It allows you to query highly sensitive, distributed vector databases (like clinical patient data) without ever moving raw data or opening inbound corporate firewalls. Unlike traditional federated learning frameworks that focus on training models across silos, Aethelgard focuses strictly on inference and routing. If deployed, Aethelgard could eliminate millions of years of diagnostic waiting time without requiring a single Data Use Agreement (DUA), creating a scalable infrastructure for global clinical consensus.
 
