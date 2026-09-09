@@ -128,6 +128,11 @@ ninja.data = [{
           description: "Using VLM and market sensing to build a fluent AI trader",
           section: "Projects",handler: () => {
               window.location.href = "/projects/alphard/";
+            },},{id: "projects-archivist",
+          title: 'Archivist',
+          description: "From AI Research to Short Video.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/archivist/";
             },},{id: "projects-dynavisr-benchmark-for-visual-reasoning-in-dynamic-environments",
           title: 'DynaVisR: Benchmark for Visual Reasoning in Dynamic Environments',
           description: "A benchmark to reduce shortcutting by requiring models to solve a coupled reasoning problem in complex dynamic environment.",
