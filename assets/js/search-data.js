@@ -163,6 +163,11 @@ ninja.data = [{
           description: "Adaptive AI ANC system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/quietplace/";
+            },},{id: "projects-stillemap",
+          title: 'StilleMap',
+          description: "Urban noise digital twin.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stillemap/";
             },},{id: "projects-square-tree-or-how-to-pack-200-x-mas-trees",
           title: 'Square Tree, or How To Pack 200 X-mas Trees',
           description: "Distributed Geometric Packing via Crystallographic Lattices.",
