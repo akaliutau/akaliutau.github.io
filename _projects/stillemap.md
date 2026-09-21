@@ -7,7 +7,7 @@ importance: 6
 category: fun
 ---
 
-StilleMap (pronounceed /ˈʃtɪləmæp/)
+StilleMap (pronounced /ˈʃtɪləmæp/)
 
 [GitHub repository](https://github.com/akaliutau/stillemap)
 
