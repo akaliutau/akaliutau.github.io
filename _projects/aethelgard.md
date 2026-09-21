@@ -13,9 +13,9 @@ category: work
   </div>
 </div>
 
-[GitHub repository](https://github.com/akaliutau/aethelgard)
+Aethelgard (original version)  [GitHub repository](https://github.com/akaliutau/aethelgard)
 
-[GitHub repository](https://github.com/akaliutau/aethelgard2)
+Aethelgard (2nd iteration) [GitHub repository](https://github.com/akaliutau/aethelgard2)
 
 Aethelgard is a lightweight, pure-pull Federated Retrieval-Augmented Generation (FedRAG) framework. It allows you to query highly sensitive, distributed vector databases (like clinical patient data) without ever moving raw data or opening inbound corporate firewalls. Unlike traditional federated learning frameworks that focus on training models across silos, Aethelgard focuses strictly on inference and routing. If deployed, Aethelgard could eliminate millions of years of diagnostic waiting time without requiring a single Data Use Agreement (DUA), creating a scalable infrastructure for global clinical consensus.
 
