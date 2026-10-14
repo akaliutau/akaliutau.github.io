@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "StilleMap"
-description: "Can we see the noise? Urban noise digital twin."
+description: "Can we see the noise? Digital twin to study and fight the urban noise."
 img: /assets/img/logo_stillemap.jpg
 importance: 6
 category: fun
