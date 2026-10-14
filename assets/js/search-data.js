@@ -168,7 +168,7 @@ ninja.data = [{
               window.location.href = "/projects/quietplace/";
             },},{id: "projects-stillemap",
           title: 'StilleMap',
-          description: "Can we see the noise? Urban noise digital twin.",
+          description: "Can we see the noise? Digital twin to study and fight the urban noise.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stillemap/";
             },},{id: "projects-square-tree-or-how-to-pack-200-x-mas-trees",
