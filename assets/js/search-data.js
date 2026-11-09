@@ -116,6 +116,9 @@ ninja.data = [{
           section: "News",},{id: "news-monodromy-was-accepted-into-nvidia-inception-program",
           title: 'Monodromy was accepted into NVIDIA Inception program',
           description: "",
+          section: "News",},{id: "news-i-signed-up-with-thinking-about-thinking-to-become-an-ambassador",
+          title: 'I signed up with Thinking About Thinking to become an Ambassador.',
+          description: "",
           section: "News",},{id: "projects-aethelgard-decentralized-clinical-intelligence-via-federated-rag",
           title: 'Aethelgard: Decentralized Clinical Intelligence via Federated RAG',
           description: "Secure FedRAG framework for distributed health data search and knowledge exchange.",
@@ -126,6 +129,11 @@ ninja.data = [{
           description: "A modular, DAG‑based framework for experimenting with pipelines that test and improve the reasoning capabilities of LLMs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai4materials/";
+            },},{id: "projects-algomini",
+          title: 'Algomini',
+          description: "Generating custom compression algorithms for your data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/algomini/";
             },},{id: "projects-ahydrae-a-hybrid-vision-language-model-approach-to-algorithmic-trading",
           title: 'aHydrae: A Hybrid Vision-Language Model Approach to Algorithmic Trading',
           description: "Using VLM and market sensing to build a fluent AI trader",
